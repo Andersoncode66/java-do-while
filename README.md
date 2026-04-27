@@ -14,3 +14,17 @@
 | `08` | `Leia um número e conte dele até 0.` | `Some somente os ímpares` |
 | `9` | `Peça números até o usuário digitar 0.` | `Use o do-while para ler os 10 valores.` |
 | `10` | `Conte quantos números foram digitados até o 0.` | `Armazene o maior valor encontrado.` |
+
+
+
+
+
+## 🟡 Nível Intermediário
+| Exercício | Tema  | Descrição |
+| :---------------- | :--------- | :--------- |
+| `01` | `` | `` |
+| `02` | `` | `` |
+| `03` | `` | `` |
+| `04` | `` | `` |
+| `05` | `` | `` |
+
