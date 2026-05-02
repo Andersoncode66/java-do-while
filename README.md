@@ -22,9 +22,13 @@
 ## 🟡 Nível Intermediário
 | Exercício | Tema  | Descrição |
 | :---------------- | :--------- | :--------- |
-| `01` | `` | `` |
-| `02` | `` | `` |
-| `03` | `` | `` |
-| `04` | `` | `` |
-| `05` | `` | `` |
-
+| `11` | `Some todos os números digitados até o usuário digitar 0.` | `Usando do-while` |
+| `12` | `Calcule a média dos números digitados (até digitar 0).` | `Use do-while para calcula a média` |
+| `13` | `Conte quantos números são positivos e negativos.` | `` |
+| `14` | `Leia 10 números e mostre o maior.` | `` |
+| `15` | `Leia 10 números e mostre o menor.` | `` |
+| `16` | `Leia números até digitar 0 e conte os pares.` | `` |
+| `17` | `Leia números até digitar 0 e conte os ímpares.` | `` |
+| `18` | `Leia números até digitar 0 e mostre o maior e o menor.` | `` |
+| `19` | `Peça senha até o usuário acertar.` | `` |
+| `20` | `Simule um menu simples (1 - Somar, 2 - Subtrair, 0 - Sair).` | `` |
