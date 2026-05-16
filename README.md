@@ -1,6 +1,7 @@
 # java-do-while
 
 # 💻Roteiro de Estudos
+
 ## 🖥️Básico
 | Exercício | Tema  | Descrição |
 | :---------------- | :--------- | :--------- |
