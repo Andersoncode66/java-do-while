@@ -33,3 +33,14 @@
 | `18` | `Leia números até digitar 0 e mostre o maior e o menor.` | `` |
 | `19` | `Peça senha até o usuário acertar.` | `` |
 | `20` | `Simule um menu simples (1 - Somar, 2 - Subtrair, 0 - Sair).` | `` |
+
+| `21` | `` | `` |
+| `22` | `` | `` |
+| `23` | `` | `` |
+| `24` | `` | `` |
+| `25` | `.` | `` |
+| `26` | `.` | `` |
+| `27` | `.` | `` |
+| `28` | `.` | `` |
+| `29` | `.` | `` |
+| `30` | `.` | `` |
