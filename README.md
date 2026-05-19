@@ -34,7 +34,8 @@
 | `19` | `Peça senha até o usuário acertar.` | `` |
 | `20` | `Simule um menu simples (1 - Somar, 2 - Subtrair, 0 - Sair).` | `` |
 
+
+
+
 | `21` | `` | `` |
-| `22` | `` | `` |
-| `23` | `` | `` |
 
